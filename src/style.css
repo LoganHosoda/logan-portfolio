@@ -214,14 +214,6 @@ text-decoration: none;
     background-position: center center;
 }
 
-.project-3 {
-    background-image: url(images/copycat-iphone.png);
-}
-
-.project-4 {
-    background-image: url(images/etch-a-sketch.png);
-}
-
 .project h2 {
     margin: 5px;
     justify-self: start;
@@ -230,6 +222,18 @@ text-decoration: none;
 .project p {
     margin: 5px;
     justify-self: left;
+
+}
+.project-3 {
+    background-image: url(images/copycat-iphone.png);
+}
+
+.project-4 {
+    background-image: url(images/etch-a-sketch.png);
+}
+
+.project-5 {
+    background-image: url(images/ruby-tictactoe.png);
 }
 
 .project-buttons button{
