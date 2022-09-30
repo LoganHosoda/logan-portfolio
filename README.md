@@ -4,7 +4,7 @@ This is a rough draft of my portfolio website that is a work-in-progress. There 
 
 Current update priority:
 
-1. Media queries for improved responsiveness.
+~~1. Media queries for improved responsiveness.~~
 2. Navigation bar switches to hamburger menu for mobile.
     Fix navigation buttons to anchor appropriately.
 3. About me section.
