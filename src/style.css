@@ -226,6 +226,10 @@ text-decoration: none;
     background-image: url(images/ruby-tictactoe.png);
 }
 
+.project-6 {
+  background-image: url(images/gaming-moments.png);
+}
+
 .project-buttons button{
     border: 1px solid white;
     color: white;
