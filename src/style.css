@@ -230,6 +230,10 @@ text-decoration: none;
   background-image: url(images/gaming-moments.png);
 }
 
+.project-7 {
+  background-image: url(images/ecommerce.png);
+}
+
 .project-buttons button{
     border: 1px solid white;
     color: white;
