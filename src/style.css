@@ -234,6 +234,10 @@ text-decoration: none;
   background-image: url(images/ecommerce.png);
 }
 
+.project-8 {
+  background-image: url(images/gaming-moments-v2.png);
+}
+
 .project-buttons button{
     border: 1px solid white;
     color: white;
